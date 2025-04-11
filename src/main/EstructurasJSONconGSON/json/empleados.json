@@ -1,0 +1,17 @@
+[
+  {
+    "num": 1,
+    "nombre": "Samuel",
+    "departamento": 10,
+    "edad": 19,
+    "sueldo": 1500.00
+  },
+
+  {
+    "num": 2,
+    "nombre": "Juan Antonio",
+    "departamento": 20,
+    "edad": 19,
+    "sueldo": 1200.00
+  }
+]
